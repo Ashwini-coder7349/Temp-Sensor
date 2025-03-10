@@ -56,3 +56,5 @@ After writing the code, click the Upload button in the Arduino IDE.
 Once the code is uploaded successfully, the LCD should display the temperature in Celsius.
 
 **OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/e4d912a6-105c-4c51-a66c-5b30b76252da)
